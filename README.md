@@ -7,4 +7,4 @@ css file for index.html
 ## img
 To store the all pictures which used in the index.html, all the images are download from internet for free.
 ### preview of the index.html
-![result](https://github.com/LeonLee85/portfolio-site/blob/master/result.png)
+![result](https://github.com/LeonLee85/portfolio-site/blob/master/preview.png)
